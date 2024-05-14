@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dejen Ketema Mamo
 - 👀 I’m interested in computational and data sciences 
-- 🌱 I’m currently learning Python programing 
+- 🌱 I’m currently learning Python programming 
 - 💞️ I’m looking to collaborate on  Python professional 
 - 📫 How to reach me  ketemadejen@gmail.com 
 
